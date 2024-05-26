@@ -3,7 +3,7 @@ version: '3.7'
 services:
   app_proxy:
     environment:
-      APP_HOST: maybe_web_1
+      APP_HOST: captaincodeman-maybe_web_1
       APP_PORT: 3063
 
   web:
