@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: maybe
+category: finance
+name: Maybe
+version: 'v0.1.0-alpha.3'
+tagline: Open-source OS for your personal finances
+description: >-
+  Maybe Maybe is a fully (your finances are secure)
+  open-source OS for your personal finances built by
+  a small team alongside an incredible community
+releaseNotes: >-
+  Updates to v0.1.0-alpha.3
+  See: https://github.com/maybe-finance/maybe/releases/tag/v0.1.0-alpha.3
+developer: Maybe
+website: https://maybe.co/
+dependencies: []
+repo: https://github.com/maybe-finance
+support: https://github.com/maybe-finance/discussions
+port: 3063
+icon: https://raw.githubusercontent.com/CaptainCodeman/umbrel-community-app-store/master/captaincodeman-maybe/images/icon.svg
+gallery:
+  - https://raw.githubusercontent.com/CaptainCodeman/umbrel-community-app-store/master/captaincodeman-maybe/images/screenshot-1.png
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: CaptainCodeman
+submission: https://github.com/getumbrel/umbrel-apps/pull/1105
